@@ -43,6 +43,7 @@ export default {
   cursor: pointer;
   color: #444;
 }
+
 .job h2:hover {
   background: #ddd;
 }
